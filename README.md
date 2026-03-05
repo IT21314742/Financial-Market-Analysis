@@ -17,5 +17,5 @@ This notebook performs comprehensive financial analysis on tech stocks using Yah
 
 ## 📊 Key Findings
 - Best performing stock:  Microsoft Corporations
-- Highest Sharpe ratio: [Fill in after analysis]
+- Highest Sharpe ratio: 40%
 - Most correlated pair: [Fill in after analysis]
