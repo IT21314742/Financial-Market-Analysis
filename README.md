@@ -15,3 +15,4 @@ This notebook performs comprehensive financial analysis on tech stocks using Yah
 - Complete portfolio dashboard
 
 
+## 📊 Key Findings
