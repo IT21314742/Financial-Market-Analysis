@@ -1,2 +1,1 @@
-# Financial Market Analysis
-Financial Market Analysis
+# 📈 Financial Market Analysis & Interactive Dashboard
