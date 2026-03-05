@@ -6,3 +6,10 @@ This notebook performs comprehensive financial analysis on tech stocks using Yah
 ---
 
 ## 🎯 Features
+- Real-time stock data from Yahoo Finance
+- Multiple stock comparison (AAPL, GOOGL, MSFT, AMZN, TSLA)
+- Daily returns and cumulative performance
+- Risk metrics (Volatility, Sharpe Ratio, Max Drawdown)
+- Correlation analysis
+- Interactive candlestick charts
+- Complete portfolio dashboard
