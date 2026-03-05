@@ -1,0 +1,9 @@
+FINANCIAL ANALYSIS SUMMARY REPORT
+========================================
+
+Analysis Period: 2023-01-01 to 2024-12-31
+Stocks Analyzed: AAPL,GOOGL,MSFT,AMZN,TSLA
+
+KEY METRICS:
+      annual_Return (%)  Annual Volatility (%)  Sharpe Ratio  Max Drawdown (%)  Positive Days (%)
+AAPL              46.44                  21.37          2.08            -16.61               56.4
