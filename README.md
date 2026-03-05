@@ -26,3 +26,16 @@ This notebook performs comprehensive financial analysis on tech stocks using Yah
 - Matplotlib/Seaborn for static visuals
 - Plotly for interactive dashboards
 - Jupyter Notebook
+
+
+
+## 🚀 How to Run
+1. Install requirements: `pip install -r requirements.txt`
+2. Run all cells in order
+3. Explore interactive visualizations
+
+## 📝 Future Improvements
+- Add more technical indicators (RSI, MACD, Moving Averages)
+- Implement portfolio optimization
+- Add news sentiment analysis
+- Create Streamlit web app
